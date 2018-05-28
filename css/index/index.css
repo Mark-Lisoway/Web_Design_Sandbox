@@ -1,0 +1,16 @@
+body {
+    background-image: linear-gradient(to right top, var(--orange-4), var(--orange-2));
+}
+
+.login-container {
+    width: 500px;
+    height: 400px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
